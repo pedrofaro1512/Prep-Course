@@ -1,0 +1,28 @@
+#anchoImagen{
+    width: 400px;
+}
+
+#thirdDiv{
+    width: 500;
+    height: 600;
+    background-color: lightsalmon;
+    padding: 50px;
+    border: 5px solid lawngreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+.fondo{
+    background-image: url(https://c8.alamy.com/zoomses/6/6f09f10e927e47bdad16c82970caae4e/r3d442.jpg);
+    background-attachment: fixed;
+}
+.divClass{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
